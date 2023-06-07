@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://tenor.com/view/hasbulla-hello-hasbyhi-gif-25332764" width="350" />
+    <h1 align="center">👋 Welcome to my Profile! 🌎</h1>
+</div>
 
-<!--
-**Brunito715/Brunito715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#                🔎 About me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 Country: Argentina
+
+
+## 📀 Social Networks
+
+- Discord: ! Bruno#5239
+- 💻 GitHub: [Brunito715](https://github.com/Brunito715)
+- 🌍 Owner: [El Bajo RP](https://discord.gg/pBE7AZuJ39)
+- 🌍 Ceo: [Reskate RP](https://discord.gg/reskateroleplay)
+
+<!-- Social icons section -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunito715&show_icons=true&theme=radical)
