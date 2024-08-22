@@ -13,8 +13,7 @@
 
 - Discord: ! Bruno#5239
 - 💻 GitHub: [Brunito715](https://github.com/Brunito715)
-- 🌍 Owner: [El Bajo RP](https://discord.gg/pBE7AZuJ39)
-- 🌍 Ceo: [Reskate RP](https://discord.gg/reskateroleplay)
+- 🌍 Owner: [El Bajo RP](https://discord.gg/elbajoroleplay)
 
 <!-- Social icons section -->
 
